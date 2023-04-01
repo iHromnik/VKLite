@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3002590029CCA0D800DAFD87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 300258FF29CCA0D800DAFD87 /* AppDelegate.swift */; };
 		3002590229CCA0D800DAFD87 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3002590129CCA0D800DAFD87 /* SceneDelegate.swift */; };
-		3002590429CCA0D800DAFD87 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3002590329CCA0D800DAFD87 /* ViewController.swift */; };
+		3002590429CCA0D800DAFD87 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3002590329CCA0D800DAFD87 /* LoginViewController.swift */; };
 		3002590729CCA0D800DAFD87 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3002590529CCA0D800DAFD87 /* Main.storyboard */; };
 		3002590A29CCA0D800DAFD87 /* VKLite.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3002590829CCA0D800DAFD87 /* VKLite.xcdatamodeld */; };
 		3002590C29CCA0DA00DAFD87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3002590B29CCA0DA00DAFD87 /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		300258FC29CCA0D800DAFD87 /* VKLite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VKLite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		300258FF29CCA0D800DAFD87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3002590129CCA0D800DAFD87 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3002590329CCA0D800DAFD87 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3002590329CCA0D800DAFD87 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		3002590629CCA0D800DAFD87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3002590929CCA0D800DAFD87 /* VKLite.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = VKLite.xcdatamodel; sourceTree = "<group>"; };
 		3002590B29CCA0DA00DAFD87 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			children = (
 				300258FF29CCA0D800DAFD87 /* AppDelegate.swift */,
 				3002590129CCA0D800DAFD87 /* SceneDelegate.swift */,
-				3002590329CCA0D800DAFD87 /* ViewController.swift */,
+				3002590329CCA0D800DAFD87 /* LoginViewController.swift */,
 				3002590529CCA0D800DAFD87 /* Main.storyboard */,
 				3002590B29CCA0DA00DAFD87 /* Assets.xcassets */,
 				3002590D29CCA0DA00DAFD87 /* LaunchScreen.storyboard */,
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3002590429CCA0D800DAFD87 /* ViewController.swift in Sources */,
+				3002590429CCA0D800DAFD87 /* LoginViewController.swift in Sources */,
 				3002590029CCA0D800DAFD87 /* AppDelegate.swift in Sources */,
 				3002590A29CCA0D800DAFD87 /* VKLite.xcdatamodeld in Sources */,
 				3002590229CCA0D800DAFD87 /* SceneDelegate.swift in Sources */,
